@@ -1,0 +1,40 @@
+body {
+  font-family: 'Lato', 'Helvetica', sans-serif;
+
+}
+a {
+  text-decoration: none;
+}
+p {
+  padding: 16px;
+  font-size: 24px;
+}
+span {
+  background: red;
+}
+a {
+  text-decoration: underline;
+  font-size: 14px;
+}
+egg {a
+  color: blue;
+}
+
+.blue {
+  color: blue;
+}
+.big egg {
+  font-size: 32px
+}
+.h1 {
+  background-color: turquoise;
+  font-size: 32px;
+  color: white;
+
+}
+
+selector {
+  <declaration>
+  <block>
+  property: value;
+}
