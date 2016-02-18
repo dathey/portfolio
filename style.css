@@ -78,7 +78,29 @@ egg {a
   padding-left: 0;
 }
 
+.snickers-bg {
+  background: #2A120A;
+  padding: 20px
 
+}
+
+.snickers-wrapper p {
+  padding: 0;
+  color: blue;
+  background: white;
+  border: 3px solid red;
+  font-size: 60px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-style: italic;
+  font-style: oblique;
+  letter-spacing: -0.07em;
+  line-height: .3;
+  padding: 5px;
+  border-radius: 22px 0 22px 0;
+  display: inline-block;
+
+
+}
 
 selector {
   <declaration>
